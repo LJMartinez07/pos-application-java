@@ -5,10 +5,16 @@ A project built using Java with:
   <li>
     MVC
   </li>
-  </ul>
-
-OOP
-Swing
-Mysql
+  <li>
+      OOP
+  </li>
+  <li>
+      Swing
+  </li>
+  <li>
+      Mysql
+  </li>
+  
+</ul>
 
 My aim was to avoid apply good practices in the Java ecosystem.
