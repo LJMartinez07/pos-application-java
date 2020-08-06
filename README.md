@@ -17,4 +17,4 @@ A project built using Java with:
   
 </ul>
 
-My aim was to avoid apply good practices in the Java ecosystem.
+My aim in this project was apply good practices in the Java ecosystem.
