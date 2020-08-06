@@ -1,7 +1,12 @@
 # POS (Point of Sale Software)
 A project built using Java with:
 
-MVC
+<ul>
+  <li>
+    MVC
+  </li>
+  </ul>
+
 OOP
 Swing
 Mysql
